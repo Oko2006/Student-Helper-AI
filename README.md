@@ -45,8 +45,8 @@ A friendly AI-powered chatbot designed to help students with their learning jour
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-student-chatbot.git
-cd ai-student-chatbot
+git clone https://github.com/Oko2006/Student-Helper-AI.git
+cd Student-Helper-AI
 ```
 
 ### 2. Frontend Setup
@@ -158,7 +158,7 @@ ai-student-chatbot/
 │   │   ├── views.py           # API endpoints
 │   │   ├── serializers.py     # Data serializers
 │   │   ├── authentication.py  # JWT authentication
-│   │   └── ai_service.py      # OpenAI integration
+│   │   └── ai_service.py      # Gemini integration
 │   ├── config/
 │   │   ├── settings.py        # Django settings
 │   │   └── urls.py            # URL routing
