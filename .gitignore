@@ -1,0 +1,49 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+*.env
+!.env.example
+
+# Database
+*.db
+*.sqlite3
+
+# Build files
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Django
+*.pyc
+db.sqlite3
+media/
+staticfiles/
+
+# React
+.eslintcache
